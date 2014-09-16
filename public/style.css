@@ -9,6 +9,9 @@ body {
   color: #2A3545;
 }
 
+#input_name {
+}
+
 .choices img {
   width: 15%;
   margin-left: 2%;
@@ -40,6 +43,6 @@ h2, h3 {
   margin-left: 10%;
   margin-right: 10%;
   margin-bottom: 10px;
-  display: none;
+  /*display: none;*/
   text-align: center;
 }
