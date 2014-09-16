@@ -212,4 +212,16 @@ describe("Rock-Paper-Scissors", function() {
 
   });
 
+  describe('victory message', function () {
+
+    it('should return the winner name, the verb, and the losers name', function () {
+
+      player1.picks('rock');
+      player2.picks('scissors');
+      expect(game.winningMessage()).toBe('Alex crushes Bob');
+
+    });
+
+  });
+
 });
