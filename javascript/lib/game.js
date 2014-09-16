@@ -3,7 +3,7 @@
     paper:    { beats: ["rock", "spock"] },
     scissors: { beats: ["paper", "lizard"] },
     lizard:   { beats: ["paper", "spock"] },
-    spock:    { beats: ["scissors", "rock" ]}
+    spock:    { beats: ["scissors", "rock" ] }
   };
 
 
