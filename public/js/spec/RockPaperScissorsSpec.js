@@ -218,7 +218,7 @@ describe("Rock-Paper-Scissors", function() {
 
       player1.picks('rock');
       player2.picks('scissors');
-      expect(game.winningMessage()).toBe('Alex crushes Bob');
+      expect(game.winningMessage()).toBe("Alex rock crushes Bob scissors");
 
     });
 

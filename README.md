@@ -1,4 +1,6 @@
-#Makers Academy Week 7 Javascript with RockPaperScissors
+#Makers Academy Week 7 
+
+##Rock Paper Scissors Lizard Spock in JS
 
 ##The Challenge
 
