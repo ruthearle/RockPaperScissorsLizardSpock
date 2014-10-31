@@ -1,3 +1,5 @@
+[![Code Climate](https://codeclimate.com/repos/54539afde30ba0498801a6b2/badges/138a88809af7fd558dd5/gpa.svg)](https://codeclimate.com/repos/54539afde30ba0498801a6b2/feed)
+
 | [*Makers Academy*](http://www.makersacademy.com) | Week 7 |
 | ------------------------------------------------ | ------ |
 
