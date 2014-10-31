@@ -1,6 +1,9 @@
-#Makers Academy Week 7 - RockPaperScissorsLizardSpock in JavaScript
+| [*Makers Academy*](http://www.makersacademy.com) | Week 7 |
+| ------------------------------------------------ | ------ |
 
-##The Challenge
+# Rock, Paper, Scissors, Lizard, Spock - JavaScript
+
+###The Challenge
 
 In week five I coded Rock, Paper, Scissors in Ruby on a Sinatra server
 ([Git repo](https://github.com/ruthearle/rockpaperscissors) and live on [Heroku](https://rps-production.herokuapp.com/)).
